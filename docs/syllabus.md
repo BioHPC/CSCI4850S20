@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Syllabus
-subtitle: BCB-5250 Intro to Bioinformatics II (Spring 2020)
+subtitle: CSCI-4850/5850 High-Performance Computing (Spring 2020)
 ---
 
 ## Overview
 
 ### Catalog Description
 
-Introduce the broad frontiers of bioinformatics topics from fundamental algorithms to practical tools. The main objective of the course is to provide the student with a solid foundation for conducting further research in bioinformatics and computational biology.
+High-performance computing (HPC) refers to a specialized use of processor features, multiple cores, memory, graphic cards, accelerators, clusters, supercomputers, and everything from software to hardware to speed up computations. This course introduces state-of-the-art HPC technologies and parallel programming skills for them. 
 
 ### Class Meeting Time/Location
 
-**Time**: Tue, Thu 11 am - 12:15 pm  
-**Where**: Ritter Hall R117 (Linux Lab)
+**Time**: Tue, Thu 12:45 pm - 2:00 pm  
+**Where**: Ritter Hall R115 (Linux Classroom)
 
 ### Instructor
 Tae-Hyuk (Ted) Ahn, Ph.D.  
@@ -25,38 +25,36 @@ Program of Bioinformatics and Computational Biology
 *Phone*: (314) 977-3633  
 *Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email
 
-### Supplemental Instructor Lead
-Angela Wu  
-*Email*: angela.wu.1@slu.edu  
-*Weekly Meeting Time*: TBD  
-
 ### Credits/Pre-requisites
 **Credits**: 3 Credits
-**Pre-requisites**: The official prerequisite is a C- or better in BCB5200
+**Pre-requisites**: CSCI 2100 (required); CSCI 3100 and CSCI 3500 recommended.  
+(Exceptions if non-cs major students have strong programming skills and computer/numerical concepts with enthusiasm for learning HPC)  
+**Overall requirements: Students will be expected to have knowledge of algorithms and data structures, and linear algebra at an undergraduate level. Students are expected to be proficient in either Python, C, C++, or FORTRAN. Students should also be familiar with the Unix/Linux environment.
 
 ### Topical Outline
-Introduction to Bioinformatics I and II are designed to introduce senior/graduate students to the fundamental concepts, methods, and research topics in Bioinformatics for analyzing large and complex biological data. In the course, we will intensely study specific research topics including genome assembly, metagenomics, RNA-Seq analysis, network analysis, and modeling and simulation. In the Introduction to Bioinformatics II course, students will be divided into groups and work on their proposed projects. 
+Main topics include basic HPC hardware architectures, parallel programming languages, new trends of HPC, and more. The contents of the course provide a balance of theoretical and practical aspects in parallel computing. A student of this course is expected to develop the right skills to design parallel applications and to effectively use modern HPC platforms.
 
-* Introduce new trends of tools and environments for Bioinformatics 
-* Genome assembly and genome/gene annotation
-* Metagenomics
-* RNA-Seq Analysis
-* Biological Modeling and Simulation
+* Introduce High-Performance Computing (HPC)
+* Profiling applications for run time and parallel speed-up
+* Brief introduction of computer organization and HPC architecture
+* Shared-memory programming with OpenMP
+* Distributed-memory programming with MPI
+* MATLAB Parallel Computing Toolbox
+* GPU programming with OpenACC (optional: CUDA)
+* Cloud Computing and Apache Spark
+
 
 ### Student Learning Outcomes
 
 After successfully complete this course, students are expected to:
-* Know fundamental concepts of bioinformatics;
-* Understand underlying basic bioinformatics algorithms;
-* Run bioinformatics applications and tools to study diverse and complex omics data;
-* Recognize how to apply different bioinformatics tools;
-* Understand cutting edge bioinformatics research topics;
-* Write pipeline scripts to automate existing applications;
-* Increase the ability to propose new algorithms and implement software tools;
-* Able to evaluate peer’s research works and understand the importance of peer review process;
-* Study the knowledge including substantive findings, as well as theoretical and methodological contributions to a particular topic in a literature;
-* Practice and improve presentation skills including logical format of contents, ordered in clear manner, effective information, and so on;
-* Conduct a research as a project to answer or analysis of a biological problem as a group for obtaining a successful, high-quality, collaborative experience.
+* Understand fundamental concepts and new trends of high-performance computing
+* Optimize software to take advantage of processor feature
+* Design, implement, and analyze programs via OpenMP for shared-memory system
+* Design, implement, and analyze programs via MPI for distributed-memory system
+* Learn ability to decide optimization or parallelize of existing applications to
+* Utilize MATLAB parallel computing toolbox and parallel in R
+* Understand the concept and implement simple GPU programs with OpenACC (or CUDA) 
+* Learn cutting-edge cloud computing techniques using Amazon AWS and Apache Spark
 
 
 ## Course Materials and Resources
@@ -64,30 +62,24 @@ After successfully complete this course, students are expected to:
 ### Textbook
 No textbook is required for this course. Assigned materials will be posted on class website. Optional reference books are as below:
 
-- [Bioinformatics and Functional Genomics 2nd or 3rd Edition](https://www.wiley.com/en-us/Bioinformatics+and+Functional+Genomics%2C+3rd+Edition-p-9781118581780) (Jonathan Pevsner)
-- [Bioinformatics Programming Using Python: Practical Programming for Biological Data](http://shop.oreilly.com/product/9780596154516.do) (Mitchell Model)
-- [Essential Bioinformatics 1st Edition](https://www.amazon.com/Essential-Bioinformatics-Jin-Xiong/dp/0521600820) (Jin Xiong)
-- [An Introduction to Bioinformatics Algorithms](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms) (Neil C. Jones and Pavel A. Pevzner 2004)
-- [Bioinformatics Algorithms: an Active Learning Approach 3rd Edition](http://bioinformaticsalgorithms.com/) (Pavel A. Pevzner and Phillip Compeau)
-- [Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology](https://www.cambridge.org/core/books/algorithms-on-strings-trees-and-sequences/F0B095049C7E6EF5356F0A26686C20D3) (Dan Gusfield 1997)
-- [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
-- [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)
+* An Introduction to Parallel Programming by Peter Pacheco (Morgan Kaufman, 2011, ISBN:978-0123742605).
+* Introduction to High Performance Computing for Scientists and Engineers by Georg Hager and Gerhard Wellein, 1st Edition (Chapman & Hall/CRC Computational Science , ISBN-13: 978-1439811924)
+* Introduction to Parallel Computing by Ananth Grama, George Karypis, Vipin Kumar, and Anshul Gupta (Addison-Wesley, 2nd edition, 2003, ISBN:978-0201648652).
+* Principles of Parallel Programming by Calvin Lin, and Larry Snyder (Addison-Wesley, 2008, ISBN:978-0321487902).Bioinformatics and Functional Genomics 2nd or 3rd Edition by Jonathan Pevsner (Hoboken, N.J. : Wiley-Blackwell, c2009)
+
 
 ### Course website
-[https://biohpc.github.io/BCB5250S20/](https://biohpc.github.io/BCB5250S20/) will be used to announce schedules, slides, assignments, and news.
-
-### Rosalind
-Students can enroll in the class with this link: [http://rosalind.info/classes/enroll/c023b4d3bf/](http://rosalind.info/classes/enroll/c023b4d3bf/). It is free to register it. We will use the Rosalind for solving some programming assignments.
+[https://biohpc.github.io/CSCI4850S20/](https://biohpc.github.io/CSCI4850S20/) will be used to announce schedules, slides, assignments, and news.
 
 ### GitHub
-Please follow my GitHub [https://github.com/BioHPC](https://github.com/BioHPC). Course repository is [https://github.com/BioHPC/BCB5250S20](https://github.com/BioHPC/BCB5250S20) and Couse Webpage is [https://biohpc.github.io/BCB5250S20/](https://biohpc.github.io/BCB5250S20/)
+Please follow my GitHub [https://github.com/BioHPC](https://github.com/BioHPC). Course repository is [https://github.com/BioHPC/CSCI4850S20](https://github.com/BioHPC/CSCI4850S20) and Couse Webpage is [https://biohpc.github.io/CSCI4850S20/](https://biohpc.github.io/CSCI4850S20/)
 
 ### Jupyter Notebook (Jupyter Lab)
 - [https://jupyter.org/](https://jupyter.org/)
 - [https://jupyterlab.readthedocs.io/en/stable/](https://jupyterlab.readthedocs.io/en/stable/)
 
 ### Blackboard:
-Blackboard could be only used to post grades. 
+Blackboard could be only used for posting grading scores. 
 
 ### Email
 Face-to-face contact in class and in office hours is most desirable. Yet email is a convenient form of communication as well. I try to respond to email promptly, including at least once each evening when possible. Email contact over the weekend will likely be more sporadic, although I will be sure to check at least once.
@@ -102,48 +94,35 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 ## Grading
 
 ### Graded Work
+- **Homework Assignments** (40%)
+  - There will be written and programming assignments in a variety of format assignments during the course. Maximum points of the assignments could be different.
+  - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
-- **Project** (40%)
-  - Midterm Proposal Presentation and Midterm Report (15%)
-    - Contribution
-  - Final Project Presentation and Final Report (20%)
-    - Report should include below sections:
-    - Abstract
-    - Introduction
-    - Methods
-    - Results
-    - Discussion
-    - References
-    - Contribution
+- **Take-home Exam** (30%)
+  - Take-home Midterm Exam (15%), Mon 03/02/2020 – Sat 03/07/2020 (tentative)
+  - Take-home Final Exam (15%), Mon 05/04/2020 – Sat 05/09/2020 (tentative)
+
+- **Project** (20%)
+  - You will also be asked to do a semester-long software project related to some topic we cover in the course. I'll give you some ideas as we approach the middle of the semester. Since we cover a lot of different things, this is a good opportunity for you to explore some particular topic in greater depth. Students enrolled in CSCI 5850 are (1) required to work on a problem in their major area, and (2) their writeup should take the form of a publication-ready research paper, with an introduction, survey of related work, experiments, results, and a bibliography. You can do an individual project or group project (up to 3 people). If you work a group project, you should spcify your contribution in the final report clearly. 
   
-- **Lab and Homework Assignments** (40%)
-  - There will be labs and assignments in a variety of format such as (but not exclusively) in-class labs and take-home assignments.
-  - We will usually give you a week time frame to submit the homework. Check the due in the online system.
-
-- **Literature Review and Presentation** (15%)
-  - Submit literature review report (one paragraph or less than 1 page) for each reference paper with your critiques.
-  - Present assigned reference paper and Q&A.
-
-- **Attendance and Class Activities** (5%)
-  - Course attendance is not mandatory, but please try to attend all lectures. If you could not attend the lecture, please inform me in advance. I will check the attendance in multiple random days to give scores. Your class activities will be also evaluated.
-
+- **Quiz** (10%)
+  - We will have two quizzes (5% each) on Tuesdays of a week ahead of midterm and final weeks. The quizzes will be true/false, multiple choice, and some short answer.
 
 ### Percentages
 Letter grades will be based on each students overall percentage of awarded points according to the following formula.
 
-Student percentage above 90% will result in a grade of A or better.  
-Student percentage above 87% will result in a grade of A- or better.  
-Student percentage above 83% will result in a grade of B+ or better.  
-Student percentage above 80% will result in a grade of B or better.  
-Student percentage above 77% will result in a grade of B- or better.  
-Student percentage above 73% will result in a grade of C+ or better.  
-Student percentage above 70% will result in a grade of C or better.  
-Student percentage above 67% will result in a grade of C- or better.  
+Student percentage above 93% will result in a grade of A or better.  
+Student percentage above 90% will result in a grade of A- or better.  
+Student percentage above 87% will result in a grade of B+ or better.  
+Student percentage above 83% will result in a grade of B or better.  
+Student percentage above 80% will result in a grade of B- or better.  
+Student percentage above 77% will result in a grade of C+ or better.  
+Student percentage above 73% will result in a grade of C or better.  
+Student percentage above 70% will result in a grade of C- or better.  
 Student percentage above 60% will result in a grade of D or better.  
 Student percentage below 60% will result in a grade of F.  
-Any modification to this scale at the end of the year will be in favor of the students. That is we may later decide to award an A to a student who is slightly below the cutoff, but we certainly will not deny an A from someone who is above the cutoff.
 
-No matter what curve I impose, I maintain that the minimum passing grade for this class is a 50% - so if your average is lower than that, you will fail this class.
+There will be no opportunity for “extra credit” to improve grades that have already been earned. Bargaining for grades will not be tolerated. 
 
 ### Extra Credit
 In general, extra credit will not be assigned in this class. 
