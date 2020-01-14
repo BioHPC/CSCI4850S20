@@ -26,14 +26,13 @@ Program of Bioinformatics and Computational Biology
 *Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email
 
 ### Credits/Pre-requisites
-**Credits**: 3 Credits
+**Credits**: 3 Credits  
 **Pre-requisites**: CSCI 2100 (required); CSCI 3100 and CSCI 3500 recommended.  
 (Exceptions if non-cs major students have strong programming skills and computer/numerical concepts with enthusiasm for learning HPC)  
-**Overall requirements: Students will be expected to have knowledge of algorithms and data structures, and linear algebra at an undergraduate level. Students are expected to be proficient in either Python, C, C++, or FORTRAN. Students should also be familiar with the Unix/Linux environment.
+**Overall requirements: Students will be expected to have knowledge of algorithms and data structures, and linear algebra at an undergraduate level. Students are expected to be proficient in either Python, C, C++, or FORTRAN. Students should also be familiar with the Unix/Linux environment.  
 
 ### Topical Outline
 Main topics include basic HPC hardware architectures, parallel programming languages, new trends of HPC, and more. The contents of the course provide a balance of theoretical and practical aspects in parallel computing. A student of this course is expected to develop the right skills to design parallel applications and to effectively use modern HPC platforms.
-
 * Introduce High-Performance Computing (HPC)
 * Profiling applications for run time and parallel speed-up
 * Brief introduction of computer organization and HPC architecture
@@ -98,7 +97,7 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
   - There will be written and programming assignments in a variety of format assignments during the course. Maximum points of the assignments could be different.
   - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
-- **Take-home Exam** (30%)
+- **Take-home Exams** (30%)
   - Take-home Midterm Exam (15%), Mon 03/02/2020 – Sat 03/07/2020 (tentative)
   - Take-home Final Exam (15%), Mon 05/04/2020 – Sat 05/09/2020 (tentative)
 
