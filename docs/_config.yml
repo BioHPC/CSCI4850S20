@@ -11,7 +11,7 @@ description: High-Performance Computing
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://biohpc.github.io/CSCI485020"
+url: "https://biohpc.github.io/CSCI4850S20"
 
 # baseurl should be an empty string
 baseurl: "/CSCI4850S20"
