@@ -14,7 +14,7 @@ Program of Bioinformatics and Computational Biology
 *Email*: taehyuk.ahn@slu.edu  
 *Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
 *Phone*: (314) 977-3633  
-*Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email 
-*[BioHPC Lab (AhnLab)](https://cs.slu.edu/~ahn/)
+*Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email  
+*[BioHPC Lab (AhnLab)](https://cs.slu.edu/~ahn/)  
 
 
