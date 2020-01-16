@@ -8,7 +8,7 @@ subtitle: Lectures, related material, and assignments
  * 1/16/2020 (Thu): Lecture 2 - Into to HPC ([Lec2 Slides][2])
 
 ## Assignments 
- * If you are not familiar to Linux, shell commands, and VI editor, please self-study it.
+ * If you are not familiar to Linux, shell commands, and VI editor (or emacs/nano/and so on), please self-study them.
 
 [1]:{{site.url}}/lectures/CSCI4850_Lec01.pdf
 [2]:{{site.url}}/lectures/CSCI4850_Lec02.pdf
