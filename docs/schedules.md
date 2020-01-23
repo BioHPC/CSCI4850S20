@@ -7,7 +7,7 @@ subtitle: Lectures, related material, and assignments
  * 1/14/2020 (Tue): Lecture 1 - Course introduction, policies, prospective topics & course project ([Lec1 Slides][1])
  * 1/16/2020 (Thu): Lecture 2 - Into to HPC ([Lec2 Slides][2])
  * 1/21/2020 (Tue): Lecture 3 - Into to HPC Cont'd ([Lec2 Slides][2])
- * 1/23/2020 (Thu): Lecture 4 - 
+ * 1/23/2020 (Thu): Lecture 4 - Optimization and Performance Analysis ([Lec4 Slides][4])
  * 1/28/2020 (Tue): Lecture 5 - 
  * 1/30/2020 (Thu): Lecture 6 - 
  * 2/4/2020 (Tue): Lecture 7 - 
@@ -43,6 +43,7 @@ subtitle: Lectures, related material, and assignments
 
 [1]:{{site.url}}/lectures/CSCI4850_Lec01.pdf
 [2]:{{site.url}}/lectures/CSCI4850_Lec02.pdf
+[4]:{{site.url}}/lectures/CSCI4850_Lec04.pdf
 
 [H1]:{{site.url}}/homework/hw1
 
