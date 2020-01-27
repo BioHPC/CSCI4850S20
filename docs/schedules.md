@@ -41,6 +41,7 @@ subtitle: Lectures, related material, and assignments
  * If you are not familiar to Linux, shell commands, and VI editor (or emacs/nano/and so on), please self-study them.
  * Due: 1/27/2020, [Homework 1][H1]
  * Due: 2/3/2020, [Homework 2][H2]
+ * Due: 2/5/2020, [Homework 3][H3]
 
 [1]:{{site.url}}/lectures/CSCI4850_Lec01.pdf
 [2]:{{site.url}}/lectures/CSCI4850_Lec02.pdf
@@ -49,4 +50,4 @@ subtitle: Lectures, related material, and assignments
 
 [H1]:{{site.url}}/homework/hw1
 [H2]:{{site.url}}/homework/hw2
-
+[H3]:{{site.url}}/homework/hw3.pdf
