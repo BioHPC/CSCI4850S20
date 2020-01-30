@@ -9,7 +9,7 @@ subtitle: Lectures, related material, and assignments
  * 1/21/2020 (Tue): Lecture 3 - Into to HPC Cont'd ([Lec2 Slides][2])
  * 1/23/2020 (Thu): Lecture 4 - Optimization ([Lec4 Slides][4])
  * 1/28/2020 (Tue): Lecture 5 - Performance Analysis and OpenMP (1) ([Lec5 Slides][5])
- * 1/30/2020 (Thu): Lecture 6 - 
+ * 1/30/2020 (Thu): Lecture 6 - OpenMP (2) ([Lec6 Slides][6])
  * 2/4/2020 (Tue): Lecture 7 - 
  * 2/6/2020 (Thu): Lecture 8 - 
  * 2/11/2020 (Tue): Lecture 9 - 
@@ -47,6 +47,7 @@ subtitle: Lectures, related material, and assignments
 [2]:{{site.url}}/lectures/CSCI4850_Lec02.pdf
 [4]:{{site.url}}/lectures/CSCI4850_Lec04.pdf
 [5]:{{site.url}}/lectures/CSCI4850_Lec05.pdf
+[6]:{{site.url}}/lectures/CSCI4850_Lec06.pdf
 
 [H1]:{{site.url}}/homework/hw1
 [H2]:{{site.url}}/homework/hw2
