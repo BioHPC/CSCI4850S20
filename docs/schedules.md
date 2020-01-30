@@ -37,6 +37,13 @@ subtitle: Lectures, related material, and assignments
  * 4/28/2020 (Tue): Lecture 28 - 
  * 4/30/2020 (Thu): Lecture 29 - 
 
+## Resources
+ * C++ primer for Python users: [python2cpp.pdf][[R1]
+ * C++ programming information website: [cplusplus.com][R2]
+ * Linux Tutorial: [Link][R3]
+ * SSH and SCP: Howto, tips & tricks: [Link][R4]
+ * Getting Started with VIM: [VIM Guide][R5]
+
 ## Assignments 
  * If you are not familiar to Linux, shell commands, and VI editor (or emacs/nano/and so on), please self-study them.
  * Due: 1/27/2020, [Homework 1][H1]
@@ -49,6 +56,13 @@ subtitle: Lectures, related material, and assignments
 [5]:{{site.url}}/lectures/CSCI4850_Lec05.pdf
 [6]:{{site.url}}/lectures/CSCI4850_Lec06.pdf
 
+[R1]:{{site.url}}/lectures/python2cpp.pdf
+[R2]:http://www.cplusplus.com/
+[R3]:https://ryanstutorials.net/linuxtutorial/
+[R4]:https://linuxacademy.com/blog/linux/ssh-and-scp-howto-tips-tricks/
+[R5]:https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide
+
 [H1]:{{site.url}}/homework/hw1
 [H2]:{{site.url}}/homework/hw2
 [H3]:{{site.url}}/homework/hw3.pdf
+
