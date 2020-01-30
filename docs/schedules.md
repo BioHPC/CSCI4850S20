@@ -38,7 +38,7 @@ subtitle: Lectures, related material, and assignments
  * 4/30/2020 (Thu): Lecture 29 - 
 
 ## Resources
- * C++ primer for Python users: [python2cpp.pdf][[R1]
+ * C++ primer for Python users: [python2cpp.pdf][R1]
  * C++ programming information website: [cplusplus.com][R2]
  * Linux Tutorial: [Link][R3]
  * SSH and SCP: Howto, tips & tricks: [Link][R4]
