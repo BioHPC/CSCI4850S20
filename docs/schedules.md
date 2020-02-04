@@ -10,7 +10,7 @@ subtitle: Lectures, related material, and assignments
  * 1/23/2020 (Thu): Lecture 4 - Optimization ([Lec4 Slides][4])
  * 1/28/2020 (Tue): Lecture 5 - Performance Analysis and OpenMP (1) ([Lec5 Slides][5])
  * 1/30/2020 (Thu): Lecture 6 - OpenMP (2) ([Lec6 Slides][6])
- * 2/4/2020 (Tue): Lecture 7 - 
+ * 2/4/2020 (Tue): Lecture 7 - OpenMP (3) ([Lec6 Slides - Cont][6])
  * 2/6/2020 (Thu): Lecture 8 - 
  * 2/11/2020 (Tue): Lecture 9 - 
  * 2/13/2020 (Thu): Lecture 10 - 
@@ -49,6 +49,9 @@ subtitle: Lectures, related material, and assignments
  * Due: 1/27/2020, [Homework 1][H1]
  * Due: 2/3/2020, [Homework 2][H2]
  * Due: 2/5/2020, [Homework 3][H3]
+
+## Term Project
+  * [Term Project Description]({{site.url}}/project/project_description)
 
 [1]:{{site.url}}/lectures/CSCI4850_Lec01.pdf
 [2]:{{site.url}}/lectures/CSCI4850_Lec02.pdf
