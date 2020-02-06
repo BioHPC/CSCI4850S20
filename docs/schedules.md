@@ -49,6 +49,7 @@ subtitle: Lectures, related material, and assignments
  * Due: 1/27/2020, [Homework 1][H1]
  * Due: 2/3/2020, [Homework 2][H2]
  * Due: 2/5/2020, [Homework 3][H3]
+ * Due: 2/13/2020, [Homework 4][H4]
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
@@ -69,4 +70,5 @@ subtitle: Lectures, related material, and assignments
 [H1]:{{site.url}}/homework/hw1
 [H2]:{{site.url}}/homework/hw2
 [H3]:{{site.url}}/homework/hw3.pdf
+[H4]:{{site.url}}/homework/hw4
 
