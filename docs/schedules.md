@@ -10,8 +10,8 @@ subtitle: Lectures, related material, and assignments
  * 1/23/2020 (Thu): Lecture 4 - Optimization ([Lec4 Slides][4])
  * 1/28/2020 (Tue): Lecture 5 - Performance Analysis and OpenMP (1) ([Lec5 Slides][5])
  * 1/30/2020 (Thu): Lecture 6 - OpenMP (2) ([Lec6 Slides][6])
- * 2/4/2020 (Tue): Lecture 7 - OpenMP (3) ([Lec6 Slides - Cont][6])
- * 2/6/2020 (Thu): Lecture 8 - 
+ * 2/4/2020 (Tue): Lecture 7 - OpenMP (2) ([Lec6 Slides - Cont][6])
+ * 2/6/2020 (Thu): Lecture 8 - OpenMP (2) (3) ([Lec7 Slides][7])
  * 2/11/2020 (Tue): Lecture 9 - 
  * 2/13/2020 (Thu): Lecture 10 - 
  * 2/18/2020 (Tue): Lecture 11 - 
@@ -58,6 +58,7 @@ subtitle: Lectures, related material, and assignments
 [4]:{{site.url}}/lectures/CSCI4850_Lec04.pdf
 [5]:{{site.url}}/lectures/CSCI4850_Lec05.pdf
 [6]:{{site.url}}/lectures/CSCI4850_Lec06.pdf
+[7]:{{site.url}}/lectures/CSCI4850_Lec07.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
