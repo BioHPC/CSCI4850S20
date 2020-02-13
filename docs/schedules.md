@@ -74,5 +74,5 @@ subtitle: Lectures, related material, and assignments
 [H2]:{{site.url}}/homework/hw2
 [H3]:{{site.url}}/homework/hw3.pdf
 [H4]:{{site.url}}/homework/hw4
-[H3]:{{site.url}}/homework/hw5.pdf
+[H5]:{{site.url}}/homework/hw5.pdf
 
