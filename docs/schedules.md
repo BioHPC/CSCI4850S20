@@ -46,10 +46,11 @@ subtitle: Lectures, related material, and assignments
 
 ## Assignments 
  * If you are not familiar to Linux, shell commands, and VI editor (or emacs/nano/and so on), please self-study them.
- * Due: 1/27/2020, [Homework 1][H1]
- * Due: 2/3/2020, [Homework 2][H2]
- * Due: 2/5/2020, [Homework 3][H3]
- * Due: 2/13/2020, [Homework 4][H4]
+ * Due: 1/27/2020, 11:59 PM [Homework 1][H1]
+ * Due: 2/3/2020, 11:59 PM [Homework 2][H2]
+ * Due: 2/5/2020, 11:59 PM [Homework 3][H3]
+ * Due: 2/13/2020, 11:59 PM [Homework 4][H4]
+ * Due: 2/20/2020, 11:59 PM [Homework 5][H5]
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
@@ -73,4 +74,5 @@ subtitle: Lectures, related material, and assignments
 [H2]:{{site.url}}/homework/hw2
 [H3]:{{site.url}}/homework/hw3.pdf
 [H4]:{{site.url}}/homework/hw4
+[H3]:{{site.url}}/homework/hw5.pdf
 
