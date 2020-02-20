@@ -15,7 +15,7 @@ subtitle: Lectures, related material, and assignments
  * 2/11/2020 (Tue): Lecture 9 -  OpenMP ([Lec8 Slides][8])
  * 2/13/2020 (Thu): Lecture 10 - Cluster and Getting Started APEX ([Lec9 Slides][9])
  * 2/18/2020 (Tue): Lecture 11 - MPI Intro ([Lec10 Slides][10])
- * 2/20/2020 (Thu): Lecture 12 - 
+ * 2/20/2020 (Thu): Lecture 12 - MPI P2P Block Communication ([Lec11 Slides][11])
  * 2/25/2020 (Tue): Lecture 13 - 
  * 2/27/2020 (Thu): Lecture 14 - 
  * 3/3/2020 (Tue): Lecture 15 - 
@@ -64,6 +64,7 @@ subtitle: Lectures, related material, and assignments
 [8]:{{site.url}}/lectures/CSCI4850_Lec08.pdf
 [9]:{{site.url}}/lectures/CSCI4850_Lec09.pdf
 [10]:{{site.url}}/lectures/CSCI4850_Lec10.pdf
+[11]:{{site.url}}/lectures/CSCI4850_Lec11.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
