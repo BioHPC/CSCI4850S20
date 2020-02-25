@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HW#6
-subtitle: Homework #6 (10 points)
+subtitle: Homework #6 (20 points)
 ---
 
 ### Due
