@@ -7,7 +7,7 @@ subtitle: Homework #6 (20 points)
 ### Due
 Thu, Mar 5 2020, 11:59 PM
 
-### Homework #5
+### Homework #6
 Consider the problem of computing in parallel the dot product of two float
 vectors x[N] and y[N] using p processes.
 Initially the data (the vectors x and y) are at the "master" processor P0.
