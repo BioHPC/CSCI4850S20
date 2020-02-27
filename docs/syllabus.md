@@ -98,14 +98,14 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
   - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
 - **Take-home Exams** (30%)
-  - Take-home Midterm Exam (15%), Mon 03/02/2020 – Sat 03/07/2020 (tentative)
-  - Take-home Final Exam (15%), Mon 05/04/2020 – Sat 05/09/2020 (tentative)
+  - Take-home Midterm Exam (15%), Mon 03/16/2020 – Fri 03/20/2020
+  - Take-home Final Exam (15%), Mon 05/04/2020 – Fri 05/08/2020
 
 - **Project** (20%)
   - You will also be asked to do a semester-long software project related to some topic we cover in the course. I'll give you some ideas as we approach the middle of the semester. Since we cover a lot of different things, this is a good opportunity for you to explore some particular topic in greater depth. Students enrolled in CSCI 5850 are (1) required to work on a problem in their major area, and (2) their writeup should take the form of a publication-ready research paper, with an introduction, survey of related work, experiments, results, and a bibliography. You can do an individual project or group project (up to 4 people). If you work a group project, you should spcify your contribution in the final report clearly. 
   
 - **Quiz** (10%)
-  - We will have two quizzes (5% each) on Tuesdays of a week ahead of midterm and final weeks. The quizzes will be true/false, multiple choice, and some short answer.
+  - We will have two quizzes (5% each) a week ahead of midterm and final weeks. The quizzes will be true/false, multiple choice, and some short answer.
 
 ### Percentages
 Letter grades will be based on each students overall percentage of awarded points according to the following formula.
