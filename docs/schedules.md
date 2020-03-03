@@ -38,7 +38,7 @@ subtitle: Lectures, related material, and assignments
  * 4/30/2020 (Thu): Lecture 29 - 
 
 ## Exams
- * Midterm: 3/16/2020 9AM (Due: 3/20/2020 11:59 PM) [Link](({{site.url}}/exam/midterm)
+ * Midterm: 3/16/2020 9AM (Due: 3/20/2020 11:59 PM) [Link]({{site.url}}/exam/midterm)
    - Submit into Blackboard
 
 ## Resources
