@@ -18,8 +18,8 @@ subtitle: Lectures, related material, and assignments
  * 2/20/2020 (Thu): Lecture 12 - MPI P2P Block Communication ([Lec11 Slides][11])
  * 2/25/2020 (Tue): Lecture 13 - MPI P2P Block Array ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 -  MPI P2P Non-Block ([Lec13 Slides][13])
- * 3/3/2020 (Tue): Lecture 15 - 
- * 3/5/2020 (Thu): Lecture 16 - 
+ * 3/3/2020 (Tue): Lecture 15 - MPI Collective ([Lec14 Slides][14])
+ * 3/5/2020 (Thu): Lecture 16 - Quiz, MPI Collective
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): Lecture 17 - 
@@ -36,6 +36,10 @@ subtitle: Lectures, related material, and assignments
  * 4/23/2020 (Thu): Lecture 27 - 
  * 4/28/2020 (Tue): Lecture 28 - 
  * 4/30/2020 (Thu): Lecture 29 - 
+
+## Exams
+ * Midterm: 3/16/2020 9AM (Due: 3/20/2020 11:59 PM) [Link](({{site.url}}/exam/midterm)
+   - Submit into Blackboard
 
 ## Resources
  * C++ primer for Python users: [python2cpp.pdf][R1]
@@ -68,6 +72,7 @@ subtitle: Lectures, related material, and assignments
 [11]:{{site.url}}/lectures/CSCI4850_Lec11.pdf
 [12]:{{site.url}}/lectures/CSCI4850_Lec12.pdf
 [13]:{{site.url}}/lectures/CSCI4850_Lec13.pdf
+[14]:{{site.url}}/lectures/CSCI4850_Lec14.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
