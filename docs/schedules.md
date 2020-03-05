@@ -19,7 +19,7 @@ subtitle: Lectures, related material, and assignments
  * 2/25/2020 (Tue): Lecture 13 - MPI P2P Block Array ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 -  MPI P2P Non-Block ([Lec13 Slides][13])
  * 3/3/2020 (Tue): Lecture 15 - MPI Collective ([Lec14 Slides][14])
- * 3/5/2020 (Thu): Lecture 16 - Quiz, MPI Collective
+ * 3/5/2020 (Thu): Lecture 16 - Quiz, MPI Collective ([Lec15 Slides][15])
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): Lecture 17 - 
@@ -73,6 +73,7 @@ subtitle: Lectures, related material, and assignments
 [12]:{{site.url}}/lectures/CSCI4850_Lec12.pdf
 [13]:{{site.url}}/lectures/CSCI4850_Lec13.pdf
 [14]:{{site.url}}/lectures/CSCI4850_Lec14.pdf
+[15]:{{site.url}}/lectures/CSCI4850_Lec15.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
@@ -86,4 +87,3 @@ subtitle: Lectures, related material, and assignments
 [H4]:{{site.url}}/homework/hw4
 [H5]:{{site.url}}/homework/hw5.pdf
 [H6]:{{site.url}}/homework/hw6
-
