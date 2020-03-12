@@ -39,7 +39,7 @@ subtitle: Lectures, related material, and assignments
 
 ## Exams
  * Midterm: Mon, 3/16/2020 9AM (Due: Mon, 3/23/2020 11:59 PM) [Link]({{site.url}}/exam/midterm)
-   - Submit into Blackboard
+   - Submit into Blackboard.
 
 ## Resources
  * C++ primer for Python users: [python2cpp.pdf][R1]
@@ -59,6 +59,7 @@ subtitle: Lectures, related material, and assignments
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
+    * Delieverable 1: All groups should submit their midterm report with Project Idea, Background, Plan, and/or any Preliminary Results. The due is Fri, March 27, 2020.
 
 [1]:{{site.url}}/lectures/CSCI4850_Lec01.pdf
 [2]:{{site.url}}/lectures/CSCI4850_Lec02.pdf
