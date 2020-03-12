@@ -22,7 +22,7 @@ subtitle: Term Project Description
 ### Requirements
 1. Students enrolled in CSCI 5850 are (1) required to work on a problem in their major area, and (2) their writeup should take the form of a publication-ready research paper, with an introduction, survey of related work, experiments, results, and a bibliography. Final report should be 4-6 pages.
 2. Students enrolled in CSCI 4850 are required to turn in the final report that should be 3-6 pages. Paper format is not required, but please provide well about background and your results.
-3. All groups should submit their midterm report with Project Idea, Background, Plan, and/or anyPreliminary Results. The tentative due is Thu, March 19, 2020.
+3. All groups should submit their midterm report with Project Idea, Background, Plan, and/or any Preliminary Results. The due is 11:59 PM (CST), Fri, Mar 27, 2020.
 
 ### Possible for Manuscript
 1. If your team would like to have a goal for publishing your work, you should discuss with me often.
