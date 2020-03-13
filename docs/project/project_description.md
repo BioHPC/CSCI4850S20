@@ -17,7 +17,7 @@ subtitle: Term Project Description
 3. Any challenge in [CAMDA 2020](http://camda.info/). If you select metagenomic challenge, I can help you more.
 4. Any challenge in [kaggle](https://www.kaggle.com/) using HPC. 
 5. Solve [Bioinformatics Contest 2019](https://bioinf.me/en/contest). This is good for students who want do the project individually and improve programming skills.
-6. Review paper for any specific topic (OpenMP, MPI, CUDA, Apache Spark, Cloud, and so on) and relaive researches.
+6. Review paper for any specific topic (OpenMP, MPI, CUDA, Apache Spark, Cloud, and so on) and relative researches.
 
 ### Requirements
 1. Students enrolled in CSCI 5850 are (1) required to work on a problem in their major area, and (2) their writeup should take the form of a publication-ready research paper, with an introduction, survey of related work, experiments, results, and a bibliography. Final report should be 4-6 pages.
