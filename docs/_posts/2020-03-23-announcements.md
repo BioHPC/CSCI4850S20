@@ -16,3 +16,9 @@ comments: true
   * Monday 10am-12pm: visit https://slu.zoom.us/j/607585387 or by phone (Meeting ID: 607 585 387)
   * Tuesday 3pm-4pm: visit https://slu.zoom.us/j/802239079 or by phone (Meeting ID: 802 239 079)
 
+* Take-Home Midterm Exam
+  * Start: Tue, 3/24/2020 at 12:45 PM
+  * Due:  Tue, 3/31/2020 at 11:59 PM
+
+* Term Project Midterm Report
+  * Due: Fri, 3/27/2020 at 11:50 PM
