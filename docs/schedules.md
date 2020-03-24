@@ -24,21 +24,21 @@ subtitle: Lectures, related material, and assignments
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
  * 3/19/2020 (Thu): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
- * 3/24/2020 (Tue): Online Lecture 17 - 
+ * 3/24/2020 (Tue): Online Lecture 17 - MPI Collective ([Lec16 Slides][16])
  * 3/26/2020 (Thu): Online Lecture 18 - 
- * 3/31/2020 (Tue): Online Lecture
- * 4/2/2020 (Thu): Online Lecture
- * 4/7/2020 (Tue): Online Lecture
+ * 3/31/2020 (Tue): Online Lecture 19 -
+ * 4/2/2020 (Thu): Online Lecture 20 -
+ * 4/7/2020 (Tue): Online Lecture 21 -
  * 4/9/2020 (Thu): No Class (Easter Break)
- * 4/14/2020 (Tue): Online Lecture
- * 4/16/2020 (Thu): Online Lecture
- * 4/21/2020 (Tue): Online Lecture
- * 4/23/2020 (Thu): Online Lecture
- * 4/28/2020 (Tue): Online Lecture
- * 4/30/2020 (Thu): Online Lecture
+ * 4/14/2020 (Tue): Online Lecture 22 -
+ * 4/16/2020 (Thu): Online Lecture 23 -
+ * 4/21/2020 (Tue): Online Lecture 24 -
+ * 4/23/2020 (Thu): Online Lecture 25 -
+ * 4/28/2020 (Tue): Online Lecture 26 -
+ * 4/30/2020 (Thu): Online Lecture 27 -
 
 ## Exams
- * Midterm: Tue, 3/24/2020 at 12:45 PM (Due: Tue, 3/31/2020 at 11:59 PM) [Link]({{site.url}}/exam/midterm)
+ * Midterm: Tue, 3/24/2020 at 12:45 PM (Due: Tue, 3/31/2020 at 11:59 PM) [Link]({{site.url}}/exam/CSCI4850_midterm_2020S_P.pdf)
    - Submit into Blackboard.
 
 ## Resources
@@ -75,6 +75,7 @@ subtitle: Lectures, related material, and assignments
 [13]:{{site.url}}/lectures/CSCI4850_Lec13.pdf
 [14]:{{site.url}}/lectures/CSCI4850_Lec14.pdf
 [15]:{{site.url}}/lectures/CSCI4850_Lec15.pdf
+[16]:{{site.url}}/lectures/CSCI4850_Lec16.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
