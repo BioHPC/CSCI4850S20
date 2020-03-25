@@ -14,6 +14,7 @@ High-performance computing (HPC) refers to a specialized use of processor featur
 
 **Time**: Tue, Thu 12:45 pm - 2:00 pm  
 **Where**: Ritter Hall R115 (Linux Classroom)
+**Online lectures via Zoom will begin starting with Monday, March 23 by COVID-19**: Join [https://slu.zoom.us/j/583209984](https://slu.zoom.us/j/583209984) or by phone (Meeting ID: 583 209 984)
 
 ### Instructor
 Tae-Hyuk (Ted) Ahn, Ph.D.  
