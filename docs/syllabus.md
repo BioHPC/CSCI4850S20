@@ -103,7 +103,7 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
   - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
 - **Take-home Exams** (30%)
-  - Take-home Midterm Exam (15%), Mon 03/16/2020 – Fri 03/20/2020
+  - Take-home Midterm Exam (15%), Tue 03/24/2020 – Tue 03/31/2020
   - Take-home Final Exam (15%), Mon 05/04/2020 – Fri 05/08/2020
 
 - **Project** (20%)
