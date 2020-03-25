@@ -13,8 +13,8 @@ High-performance computing (HPC) refers to a specialized use of processor featur
 ### Class Meeting Time/Location
 
 **Time**: Tue, Thu 12:45 pm - 2:00 pm  
-**Where**: Ritter Hall R115 (Linux Classroom)
-**Online lectures via Zoom will begin starting with Monday, March 23 by COVID-19**: Join [https://slu.zoom.us/j/583209984](https://slu.zoom.us/j/583209984) or by phone (Meeting ID: 583 209 984)
+**Where**: Ritter Hall R115 (Linux Classroom)  
+**Online lectures via Zoom at the same classtime will begin starting with Monday, March 23 by COVID-19**: Join [https://slu.zoom.us/j/583209984](https://slu.zoom.us/j/583209984) or by phone (Meeting ID: 583 209 984)  
 
 ### Instructor
 Tae-Hyuk (Ted) Ahn, Ph.D.  
@@ -24,7 +24,10 @@ Program of Bioinformatics and Computational Biology
 *Email*: taehyuk.ahn@slu.edu  
 *Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
 *Phone*: (314) 977-3633  
-*Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email
+*Office Hour*: Mon 10 am - 12 pm, Tue 3 pm - 4 pm or appointment by email  
+* Office hours via Zoom will begin starting with Monday, March 23 by COVID-19
+  * Monday 10am-12pm: visit https://slu.zoom.us/j/607585387 or by phone (Meeting ID: 607 585 387)
+  * Tuesday 3pm-4pm: visit https://slu.zoom.us/j/802239079 or by phone (Meeting ID: 802 239 079)
 
 ### Credits/Pre-requisites
 **Credits**: 3 Credits  
