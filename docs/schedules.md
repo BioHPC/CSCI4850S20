@@ -25,7 +25,7 @@ subtitle: Lectures, related material, and assignments
  * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
  * 3/19/2020 (Thu): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
  * 3/24/2020 (Tue): Online Lecture 17 - MPI Collective ([Lec16 Slides][16])
- * 3/26/2020 (Thu): Online Lecture 18 - 
+ * 3/26/2020 (Thu): Online Lecture 18 - MPI Collective ([Lec17 Slides][17])
  * 3/31/2020 (Tue): Online Lecture 19 -
  * 4/2/2020 (Thu): Online Lecture 20 -
  * 4/7/2020 (Tue): Online Lecture 21 -
@@ -76,6 +76,7 @@ subtitle: Lectures, related material, and assignments
 [14]:{{site.url}}/lectures/CSCI4850_Lec14.pdf
 [15]:{{site.url}}/lectures/CSCI4850_Lec15.pdf
 [16]:{{site.url}}/lectures/CSCI4850_Lec16.pdf
+[17]:{{site.url}}/lectures/CSCI4850_Lec17.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
