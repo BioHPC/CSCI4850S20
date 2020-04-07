@@ -28,7 +28,7 @@ subtitle: Lectures, related material, and assignments
  * 3/26/2020 (Thu): Online Lecture 18 - MPI Collective ([Lec17 Slides][17])
  * 3/31/2020 (Tue): Online Lecture 19 - MPI Communication, Group, and Topology ([Lec18 Slides][18])
  * 4/2/2020 (Thu): Online Lecture 20 - Matrix Matrix Multiplication and MPI Finalizing ([Lec19 Slides][19])
- * 4/7/2020 (Tue): Online Lecture 21 - Python+HPC, Matlab+HPC, R+HPC
+ * 4/7/2020 (Tue): Online Lecture 21 - Intro to GPU ([Lec20 Slides][20])
  * 4/9/2020 (Thu): No Class (Easter Break)
  * 4/14/2020 (Tue): Online Lecture 22 - GPU
  * 4/16/2020 (Thu): Online Lecture 23 - GPU
@@ -79,6 +79,7 @@ subtitle: Lectures, related material, and assignments
 [17]:{{site.url}}/lectures/CSCI4850_Lec17.pdf
 [18]:{{site.url}}/lectures/CSCI4850_Lec18.pdf
 [19]:{{site.url}}/lectures/CSCI4850_Lec19.pdf
+[20]:{{site.url}}/lectures/CSCI4850_Lec20.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
