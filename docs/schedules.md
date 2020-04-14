@@ -30,10 +30,10 @@ subtitle: Lectures, related material, and assignments
  * 4/2/2020 (Thu): Online Lecture 20 - Matrix Matrix Multiplication and MPI Finalizing ([Lec19 Slides][19])
  * 4/7/2020 (Tue): Online Lecture 21 - Intro to GPU ([Lec20 Slides][20])
  * 4/9/2020 (Thu): No Class (Easter Break)
- * 4/14/2020 (Tue): Online Lecture 22 - GPU
- * 4/16/2020 (Thu): Online Lecture 23 - GPU
+ * 4/14/2020 (Tue): Online Lecture 22 - Python and HPC ([Lec21 Slides][21])
+ * 4/16/2020 (Thu): Online Lecture 23 - Python and HPC ([Lec22 Slides][22])
  * 4/21/2020 (Tue): Online Lecture 24 - GPU
- * 4/23/2020 (Thu): Online Lecture 25 - Cloud
+ * 4/23/2020 (Thu): Online Lecture 25 - GPU
  * 4/28/2020 (Tue): Online Lecture 26 - Cloud
  * 4/30/2020 (Thu): Online Lecture 27 - Cloud
 
@@ -80,6 +80,8 @@ subtitle: Lectures, related material, and assignments
 [18]:{{site.url}}/lectures/CSCI4850_Lec18.pdf
 [19]:{{site.url}}/lectures/CSCI4850_Lec19.pdf
 [20]:{{site.url}}/lectures/CSCI4850_Lec20.pdf
+[21]:{{site.url}}/lectures/CSCI4850_Lec21.pdf
+[22]:{{site.url}}/lectures/CSCI4850_Lec22.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
@@ -93,3 +95,4 @@ subtitle: Lectures, related material, and assignments
 [H4]:{{site.url}}/homework/hw4
 [H5]:{{site.url}}/homework/hw5.pdf
 [H6]:{{site.url}}/homework/hw6
+[H7]:{{site.url}}/homework/hw7
