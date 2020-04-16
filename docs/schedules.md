@@ -31,11 +31,11 @@ subtitle: Lectures, related material, and assignments
  * 4/7/2020 (Tue): Online Lecture 21 - Intro to GPU ([Lec20 Slides][20])
  * 4/9/2020 (Thu): No Class (Easter Break)
  * 4/14/2020 (Tue): Online Lecture 22 - Python and HPC ([Lec21 Slides][21])
- * 4/16/2020 (Thu): Online Lecture 23 - Python and HPC ([Lec22 Slides][22])
- * 4/21/2020 (Tue): Online Lecture 24 - GPU
- * 4/23/2020 (Thu): Online Lecture 25 - GPU
- * 4/28/2020 (Tue): Online Lecture 26 - Cloud
- * 4/30/2020 (Thu): Online Lecture 27 - Cloud
+ * 4/16/2020 (Thu): Online Lecture 23 - Project Meeting
+ * 4/21/2020 (Tue): Online Lecture 24 - 
+ * 4/23/2020 (Thu): Online Lecture 25 - 
+ * 4/28/2020 (Tue): Online Lecture 26 - 
+ * 4/30/2020 (Thu): Online Lecture 27 - 
 
 ## Exams
  * Midterm: Tue, 3/24/2020 at 12:45 PM (Due: Tue, 3/31/2020 at 11:59 PM) [Link]({{site.url}}/exam/CSCI4850_midterm_2020S_P.pdf)
@@ -56,6 +56,7 @@ subtitle: Lectures, related material, and assignments
  * Due: 2/13/2020, 11:59 PM [Homework 4][H4]
  * Due: 2/21/2020, 11:59 PM [Homework 5][H5]
  * Due: 3/5/2020, 11:59 PM [Homework 6][H6]
+ * Due: 4/28/2020, 11:59 PM [Homework 7][H7]
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
@@ -82,6 +83,7 @@ subtitle: Lectures, related material, and assignments
 [20]:{{site.url}}/lectures/CSCI4850_Lec20.pdf
 [21]:{{site.url}}/lectures/CSCI4850_Lec21.pdf
 [22]:{{site.url}}/lectures/CSCI4850_Lec22.pdf
+[23]:{{site.url}}/lectures/CSCI4850_Lec23.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
