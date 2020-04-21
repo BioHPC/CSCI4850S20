@@ -32,7 +32,7 @@ subtitle: Lectures, related material, and assignments
  * 4/9/2020 (Thu): No Class (Easter Break)
  * 4/14/2020 (Tue): Online Lecture 22 - Python and HPC ([Lec21 Slides][21])
  * 4/16/2020 (Thu): Online Lecture 23 - Project Meeting
- * 4/21/2020 (Tue): Online Lecture 24 - 
+ * 4/21/2020 (Tue): Online Lecture 24 - Python and HPC ([Lec22 Slides][22])
  * 4/23/2020 (Thu): Online Lecture 25 - 
  * 4/28/2020 (Tue): Online Lecture 26 - 
  * 4/30/2020 (Thu): Online Lecture 27 - 
@@ -57,6 +57,7 @@ subtitle: Lectures, related material, and assignments
  * Due: 2/21/2020, 11:59 PM [Homework 5][H5]
  * Due: 3/5/2020, 11:59 PM [Homework 6][H6]
  * Due: 4/28/2020, 11:59 PM [Homework 7][H7]
+ * Due: 4/28/2020, 11:59 PM [Homework 8][H8]
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
