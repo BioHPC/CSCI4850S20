@@ -33,7 +33,7 @@ subtitle: Lectures, related material, and assignments
  * 4/14/2020 (Tue): Online Lecture 22 - Python and HPC ([Lec21 Slides][21])
  * 4/16/2020 (Thu): Online Lecture 23 - Project Meeting
  * 4/21/2020 (Tue): Online Lecture 24 - Python and HPC ([Lec22 Slides][22])
- * 4/23/2020 (Thu): Online Lecture 25 - 
+ * 4/23/2020 (Thu): Online Lecture 25 - Python, DL, GPU, and HPC ([Lec23 Slides][23])
  * 4/28/2020 (Tue): Online Lecture 26 - 
  * 4/30/2020 (Thu): Online Lecture 27 - 
 
@@ -99,3 +99,4 @@ subtitle: Lectures, related material, and assignments
 [H5]:{{site.url}}/homework/hw5.pdf
 [H6]:{{site.url}}/homework/hw6
 [H7]:{{site.url}}/homework/hw7
+[H8]:{{site.url}}/homework/hw8
