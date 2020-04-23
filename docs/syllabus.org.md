@@ -98,18 +98,18 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 ## Grading
 
 ### Graded Work
-- **Homework Assignments** (45%)
+- **Homework Assignments** (40%)
   - There will be written and programming assignments in a variety of format assignments during the course. Maximum points of the assignments could be different.
   - I usually give you a week time frame to submit the homework. Check the due in the online system.
 
 - **Take-home Exams** (15%)
   - Take-home Midterm Exam (15%), Tue 03/24/2020 – Tue 03/31/2020
 
-- **Project** (35%)
+- **Project** (20%)
   - You will also be asked to do a semester-long software project related to some topic we cover in the course. I'll give you some ideas as we approach the middle of the semester. Since we cover a lot of different things, this is a good opportunity for you to explore some particular topic in greater depth. Students enrolled in CSCI 5850 are (1) required to work on a problem in their major area, and (2) their writeup should take the form of a publication-ready research paper, with an introduction, survey of related work, experiments, results, and a bibliography. You can do an individual project or group project (up to 4 people). If you work a group project, you should spcify your contribution in the final report clearly. 
   
 - **Quiz** (5%)
-  - We will have one quizz (5%) a week ahead of midterm. The quizz will be true/false, multiple choice, and some short answer.
+  - We will have two quizzes (5% each) a week ahead of midterm and final weeks. The quizzes will be true/false, multiple choice, and some short answer.
 
 ### Percentages
 Letter grades will be based on each students overall percentage of awarded points according to the following formula.
