@@ -62,6 +62,7 @@ subtitle: Lectures, related material, and assignments
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
     * Delieverable 1: All groups should submit their midterm report with Project Idea, Background, Plan, and/or any Preliminary Results. The due is Fri, March 27, 2020.
+  * [Term Project Final Report]({{site.url}}/project/final_report_presentation)
 
 [1]:{{site.url}}/lectures/CSCI4850_Lec01.pdf
 [2]:{{site.url}}/lectures/CSCI4850_Lec02.pdf
