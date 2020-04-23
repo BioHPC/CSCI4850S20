@@ -6,7 +6,7 @@ subtitle: Term Project Final Report
 
 ### Final Project Report
 - Due: Tue, May 5, 2020 at 11:59 pm
-- Submit the report (DOCX or PDF) to Blackboard 
+- Submit the compressed file including report (DOCX or PDF) and codes that you worked into Blackboard
 - Report should include below sections 
   - Abstract
   - Introduction
