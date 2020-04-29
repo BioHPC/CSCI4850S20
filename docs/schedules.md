@@ -34,8 +34,8 @@ subtitle: Lectures, related material, and assignments
  * 4/16/2020 (Thu): Online Lecture 23 - Project Meeting
  * 4/21/2020 (Tue): Online Lecture 24 - Python and HPC ([Lec22 Slides][22])
  * 4/23/2020 (Thu): Online Lecture 25 - Python, DL, GPU, and HPC ([Lec23 Slides][23])
- * 4/28/2020 (Tue): Online Lecture 26 - Python, DL, GPU, and HPC ([Lec24 Slides][24], [PyTorch_basics.ipynb][24-1], [PyTorch_training.ipynb][24-2])
- * 4/30/2020 (Thu): Online Lecture 27 - 
+ * 4/28/2020 (Tue): Online Lecture 26 - PyTorch and GPU ([Lec24 Slides][24], [PyTorch_basics.ipynb][24-1], [PyTorch_training.ipynb][24-2]), OpenACC and CUDA([Lec25 Slides][25], [Intro to OpenACC][25-1])
+ * 4/30/2020 (Thu): Online Lecture 27 - Cloud Computing (Apache Spark and so on) ([Lec26 Slides][26])
 
 ## Exams
  * Midterm: Tue, 3/24/2020 at 12:45 PM (Due: Tue, 3/31/2020 at 11:59 PM) [Link]({{site.url}}/exam/CSCI4850_midterm_2020S_P.pdf)
@@ -90,6 +90,9 @@ subtitle: Lectures, related material, and assignments
 [24]:{{site.url}}/lectures/CSCI4850_Lec24.pdf
 [24-1]:{{site.url}}/lectures/PyTorch_basics.ipynb
 [24-2]:{{site.url}}/lectures/PyTorch_training.ipynb
+[25]:{{site.url}}/lectures/CSCI4850_Lec25.pdf
+[25-1]:{{site.url}}/lectures/Introduction-to-OpenACC2.pdf
+[26]:{{site.url}}/lectures/CSCI4850_Lec26.pdf
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
