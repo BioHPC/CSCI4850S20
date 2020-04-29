@@ -58,6 +58,7 @@ subtitle: Lectures, related material, and assignments
  * Due: 3/5/2020, 11:59 PM [Homework 6][H6]
  * Due: 4/28/2020, 11:59 PM [Homework 7][H7]
  * Due: 4/28/2020, 11:59 PM [Homework 8][H8]
+ * Due: 5/5/2020, 11:59 PM [Homework 9][H9]
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
