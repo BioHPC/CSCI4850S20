@@ -34,7 +34,7 @@ subtitle: Lectures, related material, and assignments
  * 4/16/2020 (Thu): Online Lecture 23 - Project Meeting
  * 4/21/2020 (Tue): Online Lecture 24 - Python and HPC ([Lec22 Slides][22])
  * 4/23/2020 (Thu): Online Lecture 25 - Python, DL, GPU, and HPC ([Lec23 Slides][23])
- * 4/28/2020 (Tue): Online Lecture 26 - 
+ * 4/28/2020 (Tue): Online Lecture 26 - Python, DL, GPU, and HPC ([Lec24 Slides][24], [PyTorch_basics.ipynb][24-1], [PyTorch_training.ipynb][24-2])
  * 4/30/2020 (Thu): Online Lecture 27 - 
 
 ## Exams
@@ -86,6 +86,9 @@ subtitle: Lectures, related material, and assignments
 [21]:{{site.url}}/lectures/CSCI4850_Lec21.pdf
 [22]:{{site.url}}/lectures/CSCI4850_Lec22.pdf
 [23]:{{site.url}}/lectures/CSCI4850_Lec23.pdf
+[24]:{{site.url}}/lectures/CSCI4850_Lec24.pdf
+[24-1]:{{site.url}}/lectures/PyTorch_basics.ipynb
+[24-2]:{{site.url}}/lectures/PyTorch_training.ipynb
 
 [R1]:{{site.url}}/lectures/python2cpp.pdf
 [R2]:http://www.cplusplus.com/
@@ -101,3 +104,4 @@ subtitle: Lectures, related material, and assignments
 [H6]:{{site.url}}/homework/hw6
 [H7]:{{site.url}}/homework/hw7
 [H8]:{{site.url}}/homework/hw8
+[H9]:{{site.url}}/homework/hw9
