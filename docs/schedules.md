@@ -50,15 +50,15 @@ subtitle: Lectures, related material, and assignments
 
 ## Assignments 
  * If you are not familiar to Linux, shell commands, and VI editor (or emacs/nano/and so on), please self-study them.
- * Due: 1/27/2020, 11:59 PM [Homework 1][H1] (<font color="red">[Sol][H1S]</font>)
- * Due: 2/3/2020, 11:59 PM [Homework 2][H2] (<font color="red">[Sol][H2S]</font>)
- * Due: 2/5/2020, 11:59 PM [Homework 3][H3] (<font color="red">[Sol][H3S]</font>)
- * Due: 2/13/2020, 11:59 PM [Homework 4][H4] (<font color="red">[Sol][H4S]</font>)
- * Due: 2/21/2020, 11:59 PM [Homework 5][H5] (<font color="red">[Sol][H5S]</font>)
- * Due: 3/5/2020, 11:59 PM [Homework 6][H6] (<font color="red">[Sol][H6S]</font>)
- * Due: 4/28/2020, 11:59 PM [Homework 7][H7] (<font color="red">[Sol][H7S]</font>)
- * Due: 4/28/2020, 11:59 PM [Homework 8][H8] (<font color="red">[Sol][H8S]</font>)
- * Due: 5/5/2020, 11:59 PM [Homework 9][H9] (<font color="red">[Sol][H9S]</font>)
+ * Due: 1/27/2020, 11:59 PM [Homework 1][H1] ([<font color="red">Sol</font>][H1S])
+ * Due: 2/3/2020, 11:59 PM [Homework 2][H2] ([Sol][H2S])
+ * Due: 2/5/2020, 11:59 PM [Homework 3][H3] ([Sol][H3S])
+ * Due: 2/13/2020, 11:59 PM [Homework 4][H4] ([Sol][H4S])
+ * Due: 2/21/2020, 11:59 PM [Homework 5][H5] ([Sol][H5S])
+ * Due: 3/5/2020, 11:59 PM [Homework 6][H6] ([Sol][H6S])
+ * Due: 4/28/2020, 11:59 PM [Homework 7][H7] ([Sol][H7S])
+ * Due: 4/28/2020, 11:59 PM [Homework 8][H8] ([Sol][H8S])
+ * Due: 5/5/2020, 11:59 PM [Homework 9][H9] ([Sol][H9S])
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
