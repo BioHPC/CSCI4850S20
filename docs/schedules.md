@@ -50,15 +50,15 @@ subtitle: Lectures, related material, and assignments
 
 ## Assignments 
  * If you are not familiar to Linux, shell commands, and VI editor (or emacs/nano/and so on), please self-study them.
- * Due: 1/27/2020, 11:59 PM [Homework 1][H1]
- * Due: 2/3/2020, 11:59 PM [Homework 2][H2]
- * Due: 2/5/2020, 11:59 PM [Homework 3][H3]
- * Due: 2/13/2020, 11:59 PM [Homework 4][H4]
- * Due: 2/21/2020, 11:59 PM [Homework 5][H5]
- * Due: 3/5/2020, 11:59 PM [Homework 6][H6]
- * Due: 4/28/2020, 11:59 PM [Homework 7][H7]
- * Due: 4/28/2020, 11:59 PM [Homework 8][H8]
- * Due: 5/5/2020, 11:59 PM [Homework 9][H9]
+ * Due: 1/27/2020, 11:59 PM [Homework 1][H1]([Sol][H1S])
+ * Due: 2/3/2020, 11:59 PM [Homework 2][H2]([Sol][H2S])
+ * Due: 2/5/2020, 11:59 PM [Homework 3][H3]([Sol][H3S])
+ * Due: 2/13/2020, 11:59 PM [Homework 4][H4]([Sol][H4S])
+ * Due: 2/21/2020, 11:59 PM [Homework 5][H5]([Sol][H5S])
+ * Due: 3/5/2020, 11:59 PM [Homework 6][H6]([Sol][H6S])
+ * Due: 4/28/2020, 11:59 PM [Homework 7][H7]([Sol][H7S])
+ * Due: 4/28/2020, 11:59 PM [Homework 8][H8]([Sol][H8S])
+ * Due: 5/5/2020, 11:59 PM [Homework 9][H9]([Sol][H9S])
 
 ## Term Project
   * [Term Project Description]({{site.url}}/project/project_description)
@@ -109,3 +109,13 @@ subtitle: Lectures, related material, and assignments
 [H7]:{{site.url}}/homework/hw7
 [H8]:{{site.url}}/homework/hw8
 [H9]:{{site.url}}/homework/hw9
+
+[H1S]:{{site.url}}/homework/hw1_sol_pw.pdf
+[H2S]:{{site.url}}/homework/hw2_sol_pw.pdf
+[H3S]:{{site.url}}/homework/hw3_sol_pw.pdf
+[H4S]:{{site.url}}/homework/hw4_sol_pw.pdf
+[H5S]:{{site.url}}/homework/hw5_sol_pw.pdf
+[H6S]:{{site.url}}/homework/hw6_sol_pw.pdf
+[H7S]:{{site.url}}/homework/hw7_sol_pw.pdf
+[H8S]:{{site.url}}/homework/hw8_sol_pw.pdf
+[H9S]:{{site.url}}/homework/hw9_sol_pw.pdf
