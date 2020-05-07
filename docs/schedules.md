@@ -19,7 +19,7 @@ subtitle: Lectures, related material, and assignments
  * 2/25/2020 (Tue): Lecture 13 - MPI P2P Block Array ([Lec12 Slides][12])
  * 2/27/2020 (Thu): Lecture 14 -  MPI P2P Non-Block ([Lec13 Slides][13])
  * 3/3/2020 (Tue): Lecture 15 - MPI Collective ([Lec14 Slides][14])
- * 3/5/2020 (Thu): Lecture 16 - Quiz, MPI Collective ([Lec15 Slides][15])
+ * 3/5/2020 (Thu): Lecture 16 - Quiz ([Sol](quiz/CSCI4850_Quiz1_sol_PW.pdf)), MPI Collective ([Lec15 Slides][15])
  * 3/10/2020 (Tue): No Class (Spring Break)
  * 3/12/2020 (Thu): No Class (Spring Break)
  * 3/17/2020 (Tue): <font color="red"> No Class (Suspension of classes by COVID-19) </font>
