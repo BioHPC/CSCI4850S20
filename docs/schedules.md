@@ -40,6 +40,7 @@ subtitle: Lectures, related material, and assignments
 ## Exams
  * Midterm: Tue, 3/24/2020 at 12:45 PM (Due: Tue, 3/31/2020 at 11:59 PM) [Link]({{site.url}}/exam/CSCI4850_midterm_2020S_P.pdf)
    - Submit into Blackboard.
+ * [Midterm Solution]({{site.url}}/exam/CSCI4850_midterm_2020S_Sol_P.pdf)
 
 ## Resources
  * C++ primer for Python users: [python2cpp.pdf][R1]
